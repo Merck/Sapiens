@@ -9,6 +9,17 @@
                |_|                    
 ```
 
+<p>
+<img src="https://github.com/Merck/Sapiens/actions/workflows/python-package-conda.yml/badge.svg"
+    alt="Build & Test"></a>
+<a href="https://pypi.org/project/sapiens/">
+    <img src="https://img.shields.io/pypi/dm/sapiens"
+        alt="Pip Install"></a>
+<a href="https://github.com/Merck/Sapiens/releases">
+    <img src="https://img.shields.io/github/v/release/Merck/Sapiens?include_prereleases"
+        alt="Latest GitHub release"></a>
+</p>
+
 Sapiens is a human antibody language model based on BERT.
 
 Learn more in the Sapiens, OASis and BioPhi in our pre-print:
