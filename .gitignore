@@ -1,0 +1,7 @@
+.ipynb_checkpoints
+*.pyc
+*.egg-info
+work
+.idea
+.DS_Store
+notebooks/*.csv

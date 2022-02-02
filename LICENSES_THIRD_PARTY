@@ -1,0 +1,35 @@
+ Name                    Version    License
+ Cython                  0.29.26    Apache Software License
+ PyYAML                  6.0        MIT License
+ antlr4-python3-runtime  4.8        BSD
+ attrs                   21.4.0     MIT License
+ cffi                    1.15.0     MIT License
+ colorama                0.4.4      BSD License
+ dataclasses             0.6        Apache Software License
+ fairseq                 0.10.2     MIT License
+ hydra-core              1.1.1      MIT License
+ importlib-metadata      4.10.1     Apache Software License
+ importlib-resources     5.4.0      Apache Software License
+ iniconfig               1.1.1      MIT License
+ numpy                   1.21.5     BSD License
+ omegaconf               2.1.1      BSD License
+ packaging               21.3       Apache Software License; BSD License
+ pandas                  1.3.5      BSD License
+ pluggy                  1.0.0      MIT License
+ portalocker             2.3.2      PSF
+ py                      1.11.0     MIT License
+ pycparser               2.21       BSD License
+ pyparsing               3.0.7      MIT License
+ pytest                  6.2.5      MIT License
+ python-dateutil         2.8.2      Apache Software License; BSD License
+ pytz                    2021.3     MIT License
+ regex                   2022.1.18  Apache Software License
+ sacrebleu               2.0.0      Apache Software License
+ sapiens                 0.1.29     MIT
+ six                     1.16.0     MIT License
+ tabulate                0.8.9      MIT License
+ toml                    0.10.2     MIT License
+ torch                   1.10.1     BSD License
+ tqdm                    4.62.3     MIT License; Mozilla Public License 2.0 (MPL 2.0)
+ typing-extensions       4.0.1      Python Software Foundation License
+ zipp                    3.7.0      MIT License
