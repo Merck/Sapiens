@@ -14,3 +14,7 @@ endif
 	make dist
 	twine upload dist/sapiens-$(VERSION)*
 	@echo "Create a new release version on: https://github.com/Merck/Sapiens/releases"
+
+dist:
+	python setup.py sdist bdist_wheel	
+
