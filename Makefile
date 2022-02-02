@@ -5,7 +5,7 @@ release:
 ifndef VERSION
 	$(error "Usage: make release VERSION=0.1.9")
 endif
-	git checkout master
+	git checkout main
 	git pull
 	echo "__version__ = '$(VERSION)'" > sapiens/__version__.py
 	git add sapiens/__version__.py
@@ -13,7 +13,4 @@ endif
 	git push
 	make dist
 	twine upload dist/sapiens-$(VERSION)*
-	git checkout develop
-	git pull
-	git rebase origin/master
-	@echo "Create a new release version on: https://github.com/Merck/sapiens/releases"
+	@echo "Create a new release version on: https://github.com/Merck/Sapiens/releases"
