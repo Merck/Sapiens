@@ -114,6 +114,6 @@ Try out Sapiens in your browser using these example notebooks:
 
 ## Acknowledgements
 
-BioPhi is based on antibody repertoires from the Observed Antibody Space:
+Sapiens is based on antibody repertoires from the Observed Antibody Space:
 
 > Kovaltsuk, A., Leem, J., Kelm, S., Snowden, J., Deane, C. M., & Krawczyk, K. (2018). Observed Antibody Space: A Resource for Data Mining Next-Generation Sequencing of Antibody Repertoires. The Journal of Immunology, 201(8), 2502–2509. https://doi.org/10.4049/jimmunol.1800708
