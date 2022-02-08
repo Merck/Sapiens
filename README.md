@@ -113,13 +113,17 @@ Try out Sapiens in your browser using these example notebooks:
 <table>
     <tr><th>Links</th><th>Notebook</th><th>Description</th></tr>
     <tr>
-        <td>TBD</td>
-        <td>[01_sapiens_antibody_infilling](notebooks/01_sapiens_antibody_infilling.ipynb)</td>
+        <td>
+            <a href="https://mybinder.org/v2/gh/Merck/Sapiens/main?labpath=notebooks%2F01_sapiens_antibody_infilling.ipynb"><img src="https://mybinder.org/badge_logo.svg" /></a>
+        </td>
+        <td><a href="notebooks/01_sapiens_antibody_infilling.ipynb">01_sapiens_antibody_infilling</a></td>
         <td>Predict missing positions in an antibody sequence</td>
     </tr>
     <tr>
-        <td>TBD</td>
-        <td>[02_sapiens_antibody_embedding](notebooks/02_sapiens_antibody_embedding.ipynb)</td>
+        <td>
+            <a href="https://mybinder.org/v2/gh/Merck/Sapiens/main?labpath=notebooks%2F02_sapiens_antibody_embedding.ipynb"><img src="https://mybinder.org/badge_logo.svg" /></a>
+        </td>
+        <td><a href="notebooks/02_sapiens_antibody_embedding.ipynb">02_sapiens_antibody_embedding</a></td>
         <td>Get vector representations and visualize them using t-SNE</td>
     </tr>
 </table>
