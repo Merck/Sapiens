@@ -25,7 +25,8 @@ Sapiens is a human antibody language model based on BERT.
 Learn more in the Sapiens, OASis and BioPhi in our publication:
 
 > David Prihoda, Jad Maamary, Andrew Waight, Veronica Juan, Laurence Fayadat-Dilman, Daniel Svozil & Danny A. Bitton (2022) 
-> BioPhi: A platform for antibody design, humanization, and humanness evaluation based on natural antibody repertoires and deep learning, mAbs, 14:1, DOI: 10.1080/19420862.2021.2020203
+> BioPhi: A platform for antibody design, humanization, and humanness evaluation based on natural antibody repertoires and deep learning, mAbs, 14:1, DOI: https://doi.org/10.1080/19420862.2021.2020203
+
 
 For more information about BioPhi, see the [BioPhi repository](https://github.com/Merck/BioPhi)
 
