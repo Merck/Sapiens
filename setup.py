@@ -22,7 +22,7 @@ setup(
     long_description=long_description,
     long_description_content_type='text/markdown',
     author='David Prihoda',
-    packages=find_packages(include=['biophi.*', 'biophi']),
+    packages=find_packages(include=['sapiens.*', 'sapiens']),
     author_email='david.prihoda@gmail.com',
     license='MIT',
     python_requires=">=3.7",
