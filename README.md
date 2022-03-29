@@ -16,8 +16,8 @@
     <img src="https://img.shields.io/pypi/dm/sapiens"
         alt="Pip Install"></a>
 <a href="https://github.com/Merck/Sapiens/releases">
-    <img src="https://img.shields.io/github/v/release/Merck/Sapiens?include_prereleases"
-        alt="Latest GitHub release"></a>
+    <img src="https://img.shields.io/pypi/v/sapiens"
+        alt="Latest release"></a>
 </p>
 
 Sapiens is a human antibody language model based on BERT.
