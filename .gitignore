@@ -5,3 +5,5 @@ work
 .idea
 .DS_Store
 notebooks/*.csv
+build/
+dist/
