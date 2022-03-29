@@ -36,8 +36,5 @@ setup(
     ],
     include_package_data=True,
     package_data={'': ['*.pt', '*.txt']},
-    url='https://github.com/Merck/Sapiens',
-    entry_points={
-        'console_scripts': ['sapiens = sapiens.cli:main']
-    }
+    url='https://github.com/Merck/Sapiens'
 )
