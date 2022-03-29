@@ -34,9 +34,7 @@ For more information about BioPhi, see the [BioPhi repository](https://github.co
 
 Install Sapiens using pip:
 ```bash
-pip install git+https://github.com/Merck/Sapiens
-
-# pip install sapiens - coming soon (see ticket https://github.com/pypa/pypi-support/issues/1651)
+pip install sapiens
 ```
 
 ### Antibody sequence infilling
