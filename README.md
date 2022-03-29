@@ -30,6 +30,12 @@ Learn more in the Sapiens, OASis and BioPhi in our publication:
 
 For more information about BioPhi, see the [BioPhi repository](https://github.com/Merck/BioPhi)
 
+## Features
+
+- Infilling missing residues in human antibody sequences
+- Suggesting mutations (in frameworks as well as CDRs)
+- Creating vector representations (embeddings) of residues or sequences
+
 ![Sapiens Antibody t-SNE Example](notebooks/Embedding_t-SNE.png)
 
 ## Usage
