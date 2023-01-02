@@ -28,7 +28,7 @@ setup(
     python_requires=">=3.7",
     install_requires=[
         'pandas',
-        'fairseq'
+        'fairseq == 0.10.2'
     ],
     keywords='sapiens, antibody humanization, bert, biophi',
     classifiers=[
