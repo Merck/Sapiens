@@ -28,7 +28,8 @@ setup(
     python_requires=">=3.7",
     install_requires=[
         'pandas',
-        'fairseq == 0.10.2'
+        'fairseq == 0.10.2', # using old fairseq version until latest version is on conda-forge
+        'numpy < 1.24.0' # use old numpy version because of fairseq incompatibility
     ],
     keywords='sapiens, antibody humanization, bert, biophi',
     classifiers=[
