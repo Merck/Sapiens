@@ -29,6 +29,7 @@ setup(
     install_requires=[
         'pandas',
         'fairseq',
+        'torch<2.5',
     ],
     keywords='sapiens, antibody humanization, bert, biophi',
     classifiers=[
