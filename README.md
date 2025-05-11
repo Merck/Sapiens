@@ -44,13 +44,11 @@ Install Sapiens using pip:
 
 ```bash
 # Recommended: Create dedicated conda environment
-conda create -n sapiens python=3.8
+conda create -n sapiens python=3.10
 conda activate sapiens
 # Install Sapiens
 pip install sapiens
 ```
-
-❗️ Python 3.7 or 3.8 is currently required due to fairseq bug in Python 3.9 and above: https://github.com/pytorch/fairseq/issues/3535
 
 ### Antibody sequence infilling
 
