@@ -138,8 +138,14 @@ Try out Sapiens in your browser using these example notebooks:
         <td><a href="notebooks/02_sapiens_antibody_embedding.ipynb">02_sapiens_antibody_embedding</a></td>
         <td>Get vector representations and visualize them using t-SNE</td>
     </tr>
+    <tr>
+        <td>
+            <a href="https://mybinder.org/v2/gh/Merck/Sapiens/main?labpath=notebooks%2F03_sapiens_antibody_vh_mlm_finetuning.ipynb"><img src="https://mybinder.org/badge_logo.svg" /></a>
+        </td>
+        <td><a href="notebooks/03_sapiens_antibody_vh_mlm_finetuning.ipynb">03_sapiens_antibody_vh_mlm_finetuning.ipynb</a></td>
+        <td>Finetune on a custom pool of sequences and suggest mutations</td>
+    </tr>
 </table>
-
 
 ## Acknowledgements
 
