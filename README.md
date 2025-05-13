@@ -18,6 +18,10 @@
 <a href="https://github.com/Merck/Sapiens/releases">
     <img src="https://img.shields.io/pypi/v/sapiens"
         alt="Latest release"></a>
+<a href="https://huggingface.co/spaces/prihodad/biophi-sapiens1">
+    <img src="https://img.shields.io/badge/🤗%20Spaces-prihodad/biophi--sapiens1-blue"
+        alt="Hugging Face Spaces"></a>
+
 </p>
 
 Sapiens is a human antibody language model based on BERT.
@@ -40,12 +44,15 @@ For more information about BioPhi, see the [BioPhi repository](https://github.co
 
 ## Usage
 
+Try out Sapiens in the [HuggingFace Space](https://huggingface.co/spaces/prihodad/biophi-sapiens1) or see the [Jupyter Notebooks](https://github.com/Merck/Sapiens?tab=readme-ov-file#notebooks).
+
 Install Sapiens using pip:
 
 ```bash
 # Recommended: Create dedicated conda environment
 conda create -n sapiens python=3.10
 conda activate sapiens
+
 # Install Sapiens
 pip install sapiens
 ```
