@@ -64,6 +64,7 @@ Positions marked with * or X will be infilled with the most likely human residue
 ```python
 import sapiens
 
+# Note that you can use masks (* or X) but you can also use "single-pass" prediction without any mask tokens
 best = sapiens.predict_masked(
     '**QLV*SGVEVKKPGASVKVSCKASGYTFTNYYMYWVRQAPGQGLEWMGGINPSNGGTNFNEKFKNRVTLTTDSSTTTAYMELKSLQFDDTAVYYCARRDYRFDMGFDYWGQGTTVTVSS',
     'H'
@@ -79,6 +80,7 @@ Return residue scores for a given sequence:
 ```python
 import sapiens
 
+# Note that you can use masks (* or X) but you can also use "single-pass" prediction without any mask tokens
 scores = sapiens.predict_scores(
     '**QLV*SGVEVKKPGASVKVSCKASGYTFTNYYMYWVRQAPGQGLEWMGGINPSNGGTNFNEKFKNRVTLTTDSSTTTAYMELKSLQFDDTAVYYCARRDYRFDMGFDYWGQGTTVTVSS',
     'H'
