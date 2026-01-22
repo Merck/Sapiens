@@ -34,11 +34,15 @@ Learn more in the Sapiens, OASis and BioPhi in our publication:
 
 For more information about BioPhi, see the [BioPhi repository](https://github.com/Merck/BioPhi)
 
+For interpretable humanness evaluation based on peptide content, see [Promb repository](https://github.com/MSDLLCpapers/promb)
+
 ## Features
 
+- Scoring antibody humanness and guiding design of human-like antibodies
+- Suggesting humanizing mutations to antibodies (in frameworks as well as CDRs)
 - Infilling missing residues in human antibody sequences
-- Suggesting mutations (in frameworks as well as CDRs)
 - Creating vector representations (embeddings) of residues or sequences
+- Models are stored on HuggingFace ([VH](https://huggingface.co/prihodad/biophi-sapiens1-vh), [VL](https://huggingface.co/prihodad/biophi-sapiens1-vl), [tokenizer](https://huggingface.co/prihodad/biophi-sapiens1-tokenizer))
 
 ![Sapiens Antibody t-SNE Example](notebooks/Embedding_t-SNE.png)
 
